@@ -9,6 +9,7 @@ I've supported and worked with founders on network 📞, community 🙋‍♂️
 ### I'm currently
 - Working on deploying and building Quaranteeny, (a quaratine-themed game built in TypeScript with React, Redux Toolkit, Express, Konva, PostgreSQL and TypeORM)
 - Implementing testing on HomeTeam (a gamified chores app for families and houseshares, built in JavaScript, GraphQL, React Native, Expo, MongoDB and Mongoose)
+- Hopelessly trying to keep my plants alive (not code-related, but always open to advice)
 
 
 ### I mostly use...
