@@ -6,13 +6,13 @@ I'm specifically interested in how technology interacts with human behaviour - I
 
 I've supported and worked with founders on network, community, strategy, and product, and I spent most of the last three years working in broad platform roles in VC. If you're looking for someone who can write a server *and* review a pitch deck, let me know! 
 
-###I'm currently 
+#I'm currently 
 - Working on deploying and building Quaranteeny, (a quaratine-themed game built in TypeScript with React, Redux Toolkit, Express, Konva, PostgreSQL and TypeORM)
 - Implementing testing on HomeTeam (a gamified chores app for families and houseshares, built in JavaScript, GraphQL, React Native, Expo, MongoDB and Mongoose)
 
 
 
-###I mostly use...
+#I mostly use...
 <code><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></code>
 <code><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></code>
@@ -28,7 +28,7 @@ I've supported and worked with founders on network, community, strategy, and pro
 
 
 
-###and I've also tried...
+#and I've also tried...
 <code><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
 <code><img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge"></code>
