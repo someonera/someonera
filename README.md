@@ -4,7 +4,7 @@ I'm looking for full-time or project-based work as a developer. I'm specifically
 
 I'd love to find somewhere with a social mission. 
 
-I've supported and worked with founders on network 📞, community 🙋‍♂️, and fundraising 💵. If you're looking for someone who can write a server *and* review a pitch deck, let me know! 
+I've supported and worked with founders on network 📞, community 🙋‍♂️, and fundraising 💵. If you're looking for someone who can do code and give feedback on a pitch deck, let me know! 
 
 ### I'm currently
 - Working on deploying and building Quaranteeny, (a quaratine-themed game built in TypeScript with React, Redux Toolkit, Express, Konva, PostgreSQL and TypeORM)
