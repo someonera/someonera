@@ -1,15 +1,5 @@
 ## Hi there, I'm Ro, a full-stack developer from London
 
-I'm looking for full-time or project-based work as a developer. I'm specifically interested in how technology interacts with human behaviour - I like gamification🕹 , network theory🕷, and human-centered design 👩‍🎨.
-
-I'd love to find somewhere with a social mission. 
-
-I've supported and worked with founders on network 📞, community 🙋‍♂️, and fundraising 💵. If you're looking for someone who can do code and give feedback on a pitch deck, let me know! 
-
-### I'm currently
-- Working on deploying and building Quaranteeny, (a quaratine-themed game built in TypeScript with React, Redux Toolkit, Express, Konva, PostgreSQL and TypeORM)
-- Implementing testing on HomeTeam (a gamified chores app for families and houseshares, built in JavaScript, GraphQL, React Native, Expo, MongoDB and Mongoose)
-- Trying to keep my plants alive (not code-related, but always open to advice)
 
 
 ### I mostly use...
