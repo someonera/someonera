@@ -1,6 +1,6 @@
 ## Hi there, I'm Ro, a full-stack developer from London
 
-
+<!-- 
 
 ### I mostly use...
 <code><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></code>
@@ -15,9 +15,9 @@
 <code><img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
 <code><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&logoColor=white&style=for-the-badge"></code>
+ -->
 
-
-
+<!-- 
 ### but I've also tried...
 <code><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
@@ -33,7 +33,7 @@
 <code><img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></code>
-
+ -->
 
 
 
