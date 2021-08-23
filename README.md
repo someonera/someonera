@@ -1,5 +1,5 @@
-## Hi there, I'm Ro, a full-stack developer from London
-
+<!-- ## Hi there, I'm Ro, a full-stack developer from London
+ -->
 <!-- 
 
 ### I mostly use...
